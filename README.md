@@ -6,6 +6,10 @@ It is a 64-bit block algorithm with 256-bit key. The algorithm iterates a simple
 If there is no better way to break GOST other than brute force, it is a very secure algoritm.
 GOST is probably stronger than DES.
 GOST's designers tried to achieve a balance between efficiency and security. They modified DES'a basic design to create an algorithm that is better suited for software implementation.
+
+The code is not tuned for speed - main goal is explanation how works the algorithm.
+As example program encrypt/decrypt only one block of data.
+
 (All information from 'Applied Cryptography' of Burce Schneier)
 
 # Example: How to test
