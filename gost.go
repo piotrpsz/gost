@@ -1,5 +1,5 @@
 /*
-	gost.go:  Blowfish algorithm implementation in Go.
+	gost.go:  GOST algorithm implementation in Go.
 
 	Copyright (C) 2018 by Piotr Pszczółkowski (piotr@beesoft.pl)
 	
