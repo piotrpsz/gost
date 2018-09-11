@@ -3,7 +3,7 @@ GOST in Go
 
 GOST is a block algorithm from former Soviet Union. GOST is an acronim for 'Gosudarstvennyi Standard' (government standard).
 It is a 64-bit block algorithm with 256-bit key. The algorithm iterates a simple encryption algorithm for 32 rounds.
-If there is no better way to break GOST other than brute force, it is a very secore algoritm.
+If there is no better way to break GOST other than brute force, it is a very secure algoritm.
 GOST is probably stronger than DES.
 GOST's designers tried to achieve a balance between efficiency and security. They modified DES'a basic design to create an algorithm that is better suited for software implementation.
 (All information from 'Applied Cryptography' of Burce Schneier)
